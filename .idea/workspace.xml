@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="D:/ANDROID_SDK" />
     <property name="settings.editor.selected.configurable" value="memory.settings" />
   </component>
@@ -110,5 +111,11 @@
       <updated>1614939097835</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1614939290378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614939290378" />
   </component>
 </project>
